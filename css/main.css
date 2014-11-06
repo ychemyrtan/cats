@@ -1,0 +1,23 @@
+.container { white-space: nowrap; }
+.mainText {
+    vertical-align: top;
+    display: inline-block;
+    width: 50%;
+    white-space: normal;
+}
+.images{
+    display: inline-block;
+    margin: 0px 0px 5px 5px;
+    width: 50%;
+    white-space: normal;
+}
+
+.images img {
+    width:290px;
+    height:220px;
+}
+.links{
+    text-align:center;
+}
+
+
